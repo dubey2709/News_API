@@ -14,8 +14,8 @@ VSCode or Android Studio
 ## App screenshots
 1 -> Loading Screen<br>
 2 -> App Screen<br>
-<image src = "https://user-images.githubusercontent.com/96309032/197357792-b447f371-9abf-404a-9b3d-534d8e0dba60.jpg" width = "500"></image>
-<image src = "https://user-images.githubusercontent.com/96309032/197357800-4467d176-b248-4921-b3e5-09cc3fed7cc5.jpg" width = "500"></image>
+<image src = "https://user-images.githubusercontent.com/96309032/197357792-b447f371-9abf-404a-9b3d-534d8e0dba60.jpg" width = "250"></image>
+<image src = "https://user-images.githubusercontent.com/96309032/197357800-4467d176-b248-4921-b3e5-09cc3fed7cc5.jpg" width = "250"></image>
 
 ## Packages Used (pub.dev) :
  cupertino_icons: ^1.0.2<br>
